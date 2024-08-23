@@ -1,0 +1,238 @@
+City,Market,Zipcode
+MA,Boston,02122
+MA,Brookline,02445
+MA,Waltham,02451
+MA,Braintree,02169
+MA,Worcester,01601
+MA,Cambridge,02114
+NJ,Newark,07101
+NJ,Elizabeth,07114
+NJ,Montclair,07028
+NJ,Edison,08817
+NJ,New Brunswick,08901
+PA,Philadelphia,19019
+NJ,Cherry Hill,08002
+DE,Wilmington,19801
+NJ,Haddonfield,08033
+NJ,Trenton,08601
+MD,Baltimore,21201
+MD,Annapolis,21401
+MD,Frederick,21701
+MD,Columbia,20588
+MD,Glen Burnie,21060
+DC,Washington,20001
+VA,Alexandria,22206
+VA,Fairfax,22030
+VA,Arlington,20301
+NC,Raleigh,27513
+NC,Durham,27517
+NC,Wake Forest,27587
+NC,Fayetteville,28301
+NC,Charlotte,28105
+SC,Rock Hill,29730
+NC,Concord,28025
+NC,Huntersville,28070
+GA,Atlanta,30033
+GA,Marietta,30008
+GA,Alpharetta,30004
+GA,Sandy Springs,30068
+FL,Jacksonville,32034
+FL,Orange Park,32067
+FL,Lakeshore,32210
+FL,Ponte Vedra Beach,32082
+FL,Orlando,32801
+FL,Kissimmee,34741
+FL,Sanford,32746
+FL,Lakeland,33801
+FL,Winter Park,32789
+FL,Tampa,33592
+FL,St. Petersburg,33701
+FL,Clearwater,33755
+FL,Bradenton,34205
+FL,Ft. Lauderdale,33301
+FL,Miami,33101
+FL,Hollywood,33004
+FL,Boca Raton,33427
+FL,West Palm Beach,33401
+TN,Nashville,37011
+TN,Franklin,37027
+TN,Clarksville,37040
+TN,Murfreesboro,37127
+TN,Chattanooga,37341
+OH,Cincinnati,45201
+OH,Mason,45034
+OH,Florence,41022
+OH,Dayton,45377
+OH,Cleveland,44101
+OH,Mentor,44060
+OH,Parma,44130
+IN,Indianapolis,46204
+IN,Greenwood,46142
+IN,Carmel,46032
+IN,Zionsville,46077
+OH,Columbus,43004
+OH,Worthington,43085
+OH,Dublin,43002
+OH,Newark,43055
+MI,Detroit,48127
+MI,Ann Arbor,48103
+MI,Lansing,48864
+MI,Grand Rapids,49501
+MI,Kalamazoo,49001
+IL,Chicago,60007
+IL,Naperville,60440
+IL,Joliet,60403
+IL,Schaumburg,60173
+WI,Milwaukee,53201
+IN,Gary,46401
+IL,Elgin,60120
+MO,St. Louis,63101
+IL,Alton Township,62002
+MO,Ferguson,63135
+MO,Chesterfield,63005
+MO,Kansas City,64030
+KS,Overland Park,66013
+KS,Olathe,66051
+MO,Gladstone,64118
+MN,Minneapolis,55111
+MN,St. Paul,55101
+MN,Blaine,55014
+MN,Bloomington,55122
+OK,Tulsa,74008
+OK,Broken Arrow,74011
+OK,Claremore,74017
+OK,Oklahoma City,73008
+OK,Norman,73019
+OK,Shawnee,74801
+TX,Dallas,75051
+TX,Plano,75023
+TX,Denton,75065
+TX,Fort Worth,76006
+TX,Frisco,75033
+TX,Arlington,76001
+TX,Austin,73301
+TX,Round Rock,78664
+TX,Pflugerville,78660
+TX,Georgetown,78626
+TX,San Antonio,78015
+TX,New Braunfels,78130
+TX,San Marcos,78656
+TX,Helotes,78023
+TX,Houston,77001
+TX,Katy,77493
+TX,Spring,77373
+TX,The Woodlands,77354
+TX,Sugar Land,77469
+TX,Pasadena,77015
+TX,Alvin,77511
+CO,Denver,80205
+CO,Aurora,80010
+CO,Boulder,80301
+CO,Colorado Springs,80829
+CO,Lakewood,80123
+UT,Salt Lake City,84044
+UT,Ogden,84401
+UT,Sandy,84047
+UT,Orem,84057
+UT,Provo,84097
+AZ,Phoenix,85012
+AZ,Glendale,85031
+AZ,Scottsdale,85054
+AZ,Mesa,85201
+NV,Las Vegas,88901
+NV,Henderson,89002
+NV,Paradise,89074
+NV,Summerlin,89128
+NV,North Las Vegas,89030
+CA,Los Angeles,90017
+CA,Pasadena,91001
+CA,North Hollywood,91601
+CA,Thousand Oaks,91319
+CA,Long Beach,90712
+CA,Santa Ana,92701
+CA,Irvine,92602
+CA,Torrance,90248
+CA,Woodland Hills,91303
+CA,Riverside,92501
+CA,San Bernardino,92346
+CA,Moreno Valley,92551
+CA,Corona,92877
+CA,Ontario,91710
+CA,Fontana,92316
+CA,Lake Elsinore,92530
+CA,Temecula,92028
+CA,Redlands,92373
+CA,Fresno,93650
+CA,Bakersfield,93301
+CA,San Jose,94088
+CA,Milpitas,95035
+CA,Fremont,94536
+CA,Mountain View,94039
+CA,Palo Alto,94020
+CA,Oakland,94501
+CA,Walnut Creek,94507
+CA,Concord,94518
+CA,Pleasanton,94566
+CA,Hayward,94540
+CA,San Francisco,94106
+CA,Daly City,94014
+CA,South San Francisco,94080
+CA,San Rafael,94901
+CA,San Mateo,94010
+CA,Sacramento,94203
+CA,Folsom,95630
+CA,Roseville,95661
+CA,Davis,95616
+CA,Elk Grove,95624
+OR,Portland,97035
+WA,Vancouver,98607
+OR,Beaverton,97005
+OR,Tigard,97223
+OR,Aloha,97003
+WA,Seattle,98105
+WA,Tacoma,98402
+WA,Everett,98201
+WA,Bellevue,98004
+WA,Redmond,98008
+CA,San Diego,91911
+CA,Chula Vista,91902
+CA,Carlsbad,92008
+CA,Lemon Grove,91945
+CA,Encinitas,92007
+CA,Escondido,92025
+NV,Reno,89433
+CT,New Haven,06501
+CT,Bridgeport,06601
+CT,Stamford,06831
+CT,Greenwich,06807
+RI,Providence,02860
+RI,Warwick,02818
+RI,Cranston,02823
+RI,Pawtucket,02862
+MA,New Bedford,02740
+LA,Shreveport,71101
+LA,New Orleans,70032
+LA,Baton Rouge,70801
+LA,Metairie,70001
+LA,Lafayette,70501
+NY,New York,10001
+NY,Brooklyn,11201
+NY,Queens,11106
+NY,Yonkers,10470
+NY,Oyster Bay,11732
+NY,Huntington,11721
+ME,Portland,04019
+HI,Honolulu,96795
+KY,Lexington,40502
+KY,Louisville,40018
+AL,Birmingham,35005
+GA,Columbus,31801
+AL,Huntsville,35649
+AL,Montgomery,36043
+AR,Little Rock,72002
+VT,Burlington,05401
+MT,Billings,59101
+MT,Missoula,59801
+KS,Wichita,67052
+IA,Des Moines,50047
+ID,Boise,83701
